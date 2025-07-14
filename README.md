@@ -40,3 +40,16 @@ drum-kit-hcj/
     ├── snare.mp3
     ├── crash.mp3
     └── kick-bass.mp3
+
+
+Author
+Made with ❤️ by Hydra
+
+License
+This project is open-source and free to use.
+
+yaml
+
+---
+
+Let me know if you'd like to include a GIF demo or want a fancier version!
