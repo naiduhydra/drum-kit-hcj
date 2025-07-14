@@ -23,3 +23,20 @@ This is a simple interactive Drum Kit web app made using **HTML**, **CSS**, and 
    ```bash
    git clone https://github.com/naiduhydra/drum-kit-hcj.git
 
+
+Folder Structure
+
+Copy
+Edit
+drum-kit-hcj/
+├── index.html
+├── style.css
+├── script.js
+└── sounds/
+    ├── tom-1.mp3
+    ├── tom-2.mp3
+    ├── tom-3.mp3
+    ├── tom-4.mp3
+    ├── snare.mp3
+    ├── crash.mp3
+    └── kick-bass.mp3
